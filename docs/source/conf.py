@@ -36,14 +36,14 @@ html_theme_options = {
     "css_minify": True,
     "nav_title": "Arcane Engine",
     "google_analytics_account": "G-86FJ02W45S",
-    "logo_icon": "✈️",
+    "logo_icon": "⚙️",
     "globaltoc_depth": 1,
     "master_doc": False,
     "nav_links": [
         {
             "href": "https://arcane.engineer/",
             "internal": False,
-            "title": "Official Website",
+            "title": "About Us",
         },
         {
             "href": "https://arcane.engineer/dashboard/tasks/",
@@ -51,14 +51,14 @@ html_theme_options = {
             "title": "Dashboard",
         },
         {
-            "href": "https://arcane.engineer/blog/",
+            "href": "https://arcane.engineer/development-kit/",
             "internal": False,
-            "title": "Blog",
+            "title": "Dev Kit",
         },
         {
-            "href": "https://arcane.engineer",
+            "href": "https://arcane.engineer/studio/",
             "internal": False,
-            "title": "About Us",
+            "title": "Arcane Studio",
         },
     ],
     "heroes": {

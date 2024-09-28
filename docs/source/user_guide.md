@@ -1,9 +1,11 @@
 (user_guide)=
 # User Guide
 Arcane Engine is designed for you to save time and to help you stay in the flow. 
-The CLI lets you to delegate routine work to AI with confidence and predictability. 
+This guide will help you understand how to use it in your daily workflow. 
+It is based around our CLI, which is the most flexible and powerful way to interact with Arcane Engine. 
+You can also use our [Development Kit](https://arcane.engineer/development-kit/) to integrate Arcane Engine into your own tools and workflows 
+or use [Arcane Studio](https://arcane.engineer/studio/) to create and manage tasks in a visual interface.
 
-This guide will help you understand how to use Arcane Engine in your daily workflow.
 ## Installation
 
 If you haven't done so, [add Arcane Engine](https://github.com/apps/arcane-engine/installations/new) to your repository 
