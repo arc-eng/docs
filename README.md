@@ -1,10 +1,10 @@
-# Arcane Engine Documentation
+# Documentation du moteur Arcane
 
-This directory contains the user documentation and the code documentation.
+Ce répertoire contient la documentation utilisateur et la documentation du code.
 
-## User Documentation
-The user documentation is a Sphinx project and uses the [Sphinx Material theme](https://bashtage.github.io/sphinx-material/).
-All content is stored in [source](./source).
+## Documentation utilisateur
+La documentation utilisateur est un projet Sphinx et utilise le [thème Sphinx Material](https://bashtage.github.io/sphinx-material/).
+Tout le contenu est stocké dans [source](./source).
 
-## Code Documentation
-Code documentation is separate from the user documentation and maintained in the [code](./code) directory as Markdown files.
+## Documentation du code
+La documentation du code est séparée de la documentation utilisateur et est maintenue dans le répertoire [code](./code) sous forme de fichiers Markdown.
