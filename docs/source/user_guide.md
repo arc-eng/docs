@@ -17,8 +17,6 @@ and install the [CLI](https://github.com/arc-eng/cli).
 
 You and your tools can interact with Arcane Engine using natural language,
 supported by a variety of tools and integrations.
-Which one is best for you highly depends on your specific use case. On [YouTube](https://www.youtube.com/watch?v=HVcW3ceqtfw&list=PLDz7ICzRy18wEgi70CPqsaCoNVSEw1GI9) 
-and in our [Demo Repo](https://github.com/PR-Pilot-AI/demo), we provide examples of how to use Arcane Engine in different scenarios.
 
 **Arcane Engine will run tasks autonomously** using:
 * Its [standard capabilities](capabilities) 
@@ -30,7 +28,7 @@ Before you get started, there is one key concept to understand:
 
 **Arcane Engine runs in its own cloud environment, not your local machine.**
 
-Let's take an example:
+Let's create your first task using the CLI:
 
 ```shell
 ➜  arcane-cli git:(main) pilot --verbose --sync task "Edit the README.md file: Add emojis to all headers"

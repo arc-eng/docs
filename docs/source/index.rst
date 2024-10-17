@@ -6,13 +6,7 @@
 Arcane Engine Documentation
 ===========================
 
-Save time and stay in the flow by delegating routine work to the Arcane Engine.
-
-Tasks
------
-
-**Everything** in Arcane Engine is a task. A task is a unit of work that can be automated by the engine.
-All tasks are described in natural language and can be as simple or complex as you need them to be.
+Welconme to the technical documentation of the Arcane Engine.
 
 Quick Start
 -----------
@@ -37,7 +31,5 @@ from our `Demo Repository <https://github.com/PR-Pilot-AI/demo>`_.
    capabilities
    vision
    pricing
-   privacy_notice
    support
-   team
    faq
